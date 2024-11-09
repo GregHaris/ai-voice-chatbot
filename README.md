@@ -1,2 +1,2 @@
-# voice-chat-bot
+# AI Voice Chatbot
 Building an ai voice chat bot
